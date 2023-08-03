@@ -1,0 +1,14 @@
+.not-active {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+.active {
+  font-size: 20px;
+  font-weight: bold;
+  color: #fec653;
+  border-bottom: #fec653 solid 3px;
+}
+.tab {
+  margin: 20px;
+}
